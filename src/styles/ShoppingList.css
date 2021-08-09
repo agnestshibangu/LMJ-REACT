@@ -1,0 +1,35 @@
+.offer-tag {
+    background-color: green;
+    color: white;
+    padding: 2px;
+    margin-left: 5px;
+    font-size: 12px;
+    border-radius: 5px;
+
+}
+
+.lmj-plant-item {
+	border: solid 2px black;
+	border-radius: 10px;
+	height: 150px;
+	width: 150px;
+	margin: 25px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	position: relative;
+}
+
+.lmj-plant-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 870px;
+}
+
+.buttonAdd {
+	border-radius: 10px;
+	border: none
+}

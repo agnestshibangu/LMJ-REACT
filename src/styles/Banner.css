@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+* {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.lmj-banner {
+    color: black;
+    text-align: right;
+    padding: 32px;
+    border-bottom: solid 3px black;
+    display: flex; 
+    flex-direction: row; 
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.lmj-logo {
+    width: 45px;
+    height: 45px;
+}
+
+.lmj-title {
+    padding-left: 32px;
+    font-weight: bolder;
+}

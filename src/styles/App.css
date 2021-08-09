@@ -1,0 +1,10 @@
+.lmj-layout-inner {
+    display: flex;
+    flex-direction: row;
+}
+
+.lmj-categories {
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+}
