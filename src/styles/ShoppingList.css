@@ -9,16 +9,18 @@
 }
 
 .lmj-plant-item {
-	border: solid 2px black;
+
 	border-radius: 10px;
 	height: 150px;
 	width: 150px;
-	margin: 25px;
+	margin : 25px 25px 0 25px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
 	position: relative;
+	background-color: #60ca95;
+
 }
 
 .lmj-plant-list {
@@ -31,5 +33,11 @@
 
 .buttonAdd {
 	border-radius: 10px;
-	border: none
+	border: none;
+	margin-left: 25%;
+	margin-top: 5px; 
+	background-color: #31b572;
+	color: white;
+	padding: 3px;
+	width: 50%;
 }

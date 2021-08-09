@@ -8,3 +8,10 @@
     display: flex;
     margin-top: 30px;
 }
+
+.lmj-categories-select {
+    border: none;
+    color: white;
+    background-color: #31b572;
+    border-radius: 5px;
+}
